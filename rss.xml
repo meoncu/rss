@@ -2,29 +2,11 @@
 <rss version="2.0">
 
   <channel>
-    <title>Emre'nin Dergisi</title>
-    <link>https://emreoncu.github.io/dergi-rss/</link>
-    <description>Her ay yeni makaleler</description>
-    <language>tr</language>
-
+  
     <item>
       <title>Ekim 2025 Sayısı</title>
       <link>https://emreoncu.github.io/dergi-rss/ekim2025.html</link>
-      <pubDate>Wed, 01 Jan 2025 10:00:00 +0300</pubDate>
-      <description>Ocak sayısında 20 yeni makale!</description>
-    </item>
-
-    <item>
-      <title>Şubat 2025 Sayısı</title>
-      <link>https://emreoncu.github.io/dergi-rss/subat2025.html</link>
-      <pubDate>Sat, 01 Feb 2025 10:00:00 +0300</pubDate>
-      <description>Şubat sayısında tarım, teknoloji ve yaşam yazıları.</description>
-    </item>
-
-    <item>
-      <title>Mart 2025 Sayısı</title>
-      <link>https://emreoncu.github.io/dergi-rss/mart2025.html</link>
-      <pubDate>Sat, 01 Mar 2025 10:00:00 +0300</pubDate>
+      <pubDate>Sat, 01 Ekim 2025 10:00:00 +0300</pubDate>
       <description>Mart sayısında bahar hazırlıkları.</description>
     </item>
 
