@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+i<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
     <title>Emre'nin Dergisi</title>
@@ -8,7 +8,7 @@
 
     <item>
       <title>Ocak 2025 Sayısı</title>
-      <link>https://emreoncu.github.io/dergi-rss/ocak2025.html</link>
+      <link>https://emreoncu.github.io/dergi-rss/ekim2025.html</link>
       <pubDate>Wed, 01 Jan 2025 10:00:00 +0300</pubDate>
       <description>Ocak sayısında 20 yeni makale!</description>
     </item>
